@@ -1,0 +1,23 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizehua-cn/tips.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizehua-cn/tips/issues"
+  },
+  "homepage": "https://github.com/lizehua-cn/tips#readme",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
